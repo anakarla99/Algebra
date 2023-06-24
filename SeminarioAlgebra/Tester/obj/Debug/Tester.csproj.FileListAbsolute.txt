@@ -1,0 +1,62 @@
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\bin\Debug\Tester.exe
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\bin\Debug\Tester.pdb
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.dll
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.pdb
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+c:\users\jjxl\documents\visual studio 2013\Projects\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\JJxl\Desktop\Seminario\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\Users\JJxl\Desktop\Seminario\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\JJxl\Desktop\Seminario\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\bin\Debug\Tester.exe
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\bin\Debug\Tester.pdb
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.dll
+C:\Users\Dayi\Desktop\Seminario de Algebra\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.pdb
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\bin\Debug\Tester.exe
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\bin\Debug\Tester.pdb
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.dll
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.pdb
+D:\2-School\Proyects\New folder (2)\SeminarioAlgebra\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Dalianys\Desktop\school\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\Users\Dalianys\Desktop\school\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\Dalianys\Desktop\school\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\DALIANYS\SCHOOL\I\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\DALIANYS\SCHOOL\I\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\DALIANYS\SCHOOL\I\1er semestre\Algebra I\C111-Dayany Alfaro,Liset Alfaro,Tony Blanco,Dalianys Perez\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\bin\Debug\Tester.exe.config
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\obj\Debug\Tester.exe
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\obj\Debug\Tester.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\bin\Debug\Tester.exe
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\bin\Debug\Tester.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\bin\Debug\SeminarioAlgebra.dll
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\bin\Debug\SeminarioAlgebra.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebraDalianys\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\bin\Debug\Tester.exe
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\bin\Debug\Tester.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.dll
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.pdb
+C:\Users\Ale\Desktop\SeminarioAlgebra\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\bin\Debug\Tester.exe.config
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\bin\Debug\Tester.exe
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\bin\Debug\Tester.pdb
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.dll
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\bin\Debug\SeminarioAlgebra.pdb
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\User\Desktop\UH\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
+C:\Users\user\Desktop\Ana Karla\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ana Karla\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Ana Karla\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ana Karla\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.exe
+C:\Users\user\Desktop\Ana Karla\SeminarioAlgebra\SeminarioAlgebra\Tester\obj\Debug\Tester.pdb
